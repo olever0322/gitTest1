@@ -1,17 +1,8 @@
-<<<<<<< HEAD
+
 public class Variable{
      public static void main(String[] arge){
-
-
+	System.out.println("hotfix branch");
+	System.out.println("master branch");
 
      }
 }
-=======
-public class Varitable{
-  public static void main(String[] args){
-	System.out.println("hotfix branch");
-
-
- }
-}
->>>>>>> hotfix
